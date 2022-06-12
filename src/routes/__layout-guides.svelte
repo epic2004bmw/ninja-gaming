@@ -1,6 +1,6 @@
 <script>
     import Title from "$lib/title.svelte";
-    import "../../styles/global.css";
+    import "../styles/global.css";
 </script>
 
 <header>
@@ -10,7 +10,7 @@
             <a href="/">Home</a>
             <a href="/about">About</a>
             <a href="/guides">Guides</a>
-        </div> 
+        </div>
     </nav>
 </header>
 <main>
@@ -23,7 +23,7 @@
 <style>
     header {
         text-align: center;
-        background: rgba(0, 0, 0, 0.1)
+        background: rgba(0, 0, 0, 0.1);
     }
     main {
         max-width: 960px;
