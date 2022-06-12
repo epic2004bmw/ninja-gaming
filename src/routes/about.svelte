@@ -1,17 +1,18 @@
 <script>
-   
+
 </script>
 
- 
-<div class="index">
-    <h2>Welcome!</h2>
-    <p>this is more information on stuff</p>
+
+<div class="about">
+    <h2>About Us</h2>
+    <p>something something</p>
+    <div class="index">hello</div>
     <a href="/guides">View Guides</a>
-    <a href="/about">About</a>
+    <a href="/">Home</a>
 </div>
 
 <style>
-    .index {
+    .about {
         text-align: center;
         display: block;
         margin: 20px auto;
